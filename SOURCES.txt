@@ -45,6 +45,7 @@ newspapers.com:
 1909 Central Kansas (Salina Daily Union)
 1909 Connecticut State (Hartford Courant)
 1909 Eastern Carolina (Raleigh Times)
+1909 Florida State (Tampa Tribune)
 1909 Intermountain (Deseret Evening Times)
 1909 Kansas State (Hutchinson Gazette)
 1909 Ohio State (Marion Star)
