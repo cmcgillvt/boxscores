@@ -117,6 +117,7 @@ newspapers.com:
 1914 Tri State (Harrisburg Daily Independent)
 1914 Western Association (Oklahoma City Daily Oklahoman)
 1915 Central (Fort Wayne Journal-Gazette)
+1915 Central Texas (Waxahatchie Daily Light (July on Texas Digital Newspaper Program)
 1915 Colonial (Hartford Courant)
 1915 New England (Fitchburg Sentinel)
 1915 New York State (Binghamton Press and Sun-Bulletin)
